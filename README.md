@@ -1,80 +1,104 @@
-# 👋 Hi, I'm Rudraksh Ganguly
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:38BDF8&height=220&section=header&text=Rudraksh%20Ganguly&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-🚀 2nd Year B.Tech Student | CSE - AI & ML  
-💡 Full-Stack Developer | DSA Enthusiast | AI Explorer  
-🔥 Building skills to create impactful real-world tech  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+ML+Student;Full+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a passionate Computer Science student specializing in Artificial Intelligence & Machine Learning.
-
-I enjoy:
-- Solving challenging Data Structures & Algorithms problems
-- Strengthening C & C++ fundamentals
-- Exploring AI & ML concepts
-- Building clean and modern full-stack applications
-
-Currently focused on becoming a strong problem solver and system thinker.
+🎓 2nd Year B.Tech Student (CSE - AI & ML)  
+💡 Passionate about Data Structures, Problem Solving & Scalable Systems  
+🚀 Exploring Artificial Intelligence & Full-Stack Development  
+🔥 Focused on becoming a strong system thinker & real-world product builder  
 
 ---
 
-# 🛠️ Tech Arsenal
+<img src="https://user-images.githubusercontent.com/74038190/216655801-4b74d0d0-4e4e-4f3a-8f4d-0b2c5d5d87c7.gif" width="100%" />
 
-## 👨‍💻 Core Languages
+# 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## 👨‍💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript" />
+</p>
 
 ---
 
 ## 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Vite](https://img.shields.io/badge/Vite-1E1E1E?style=for-the-badge&logo=vite&logoColor=646CFF)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## ⚙️ Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
----
-
-# 🎯 Current Goals
-
-- 📈 Reach advanced level in DSA
-- 🧠 Build AI-integrated real-world applications
-- 🏆 Participate in competitive programming & hackathons
-- 🚀 Develop strong system design fundamentals
-
----
-
-# 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudraksh2004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Rudraksh2004&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
 </p>
 
 ---
 
-# 🌐 Let's Connect
+## ⚙️ Backend
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
 
 ---
 
-⚡ “Build. Break. Learn. Repeat.”
+## 🧰 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/216655801-4b74d0d0-4e4e-4f3a-8f4d-0b2c5d5d87c7.gif" width="100%" />
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudraksh2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraksh2004&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rudraksh2004&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudraksh2004&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rudraksh-ganguly-411a39328/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rganguly1705@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 📈 Master Advanced DSA  
+- 🧠 Build AI-integrated real-world applications  
+- 🚀 Strengthen System Design fundamentals  
+- 🏆 Participate in competitive programming & hackathons  
+
+---
+
+<p align="center">
+  ⚡ <b>Build. Break. Learn. Repeat.</b>
+</p>
